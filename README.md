@@ -1,4 +1,4 @@
-# cb-contacts
+# Contacts
 
 This web application is used for managing contacts. It is built with [Nuxt](https://nuxtjs.org/docs/get-started/installation/), TypeScript, [Tailwind CSS](https://tailwindcss.com/docs/installation) and uses the [Firebase Realtime Database](https://firebase.google.com/docs/database/web/start) for data. [Cypress](https://docs.cypress.io/guides/overview/why-cypress) is used to E2E-test the application.
 
