@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f2f2f0;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  @apply text-blue-dark;
+}
+
+input:disabled,
+button:disabled,
+select:disabled {
+  @apply bg-gray-100;
+  opacity: 0.65;
+}
